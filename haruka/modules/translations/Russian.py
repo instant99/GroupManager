@@ -485,20 +485,24 @@ RussianStrings = {
 #__main__
     #Module names
         "Admin": "Администрирование",
+        "Android": "Прошивки",
         "AFK": "Режим АФК",
         "AntiFlood": "Антифлуд",
+        "Backups": "Бэкапы",
         "Bans": "Баны",
         "Stickers": "Стикеры",
         "Translator": "Переводчик",
         "Federation": "Федерации",
+        "Image Lookup": "Поиск картинок",
         "Word Blacklists": "Черные списки",
         "Filters": "Фильтры",
+        "Greetings": "Приветсвие",
         "Command disabling": "Отключение комманд",
         "Antispam security": "Антиспам Защита",
         "Locks": "Блокировки",
         "Log Channels": "Логирование действий",
         "Misc": "Остальное",
-        "Purges": "Чистка",
+        "Purges": "Очистка сообщений",
         "Muting & Restricting": "Муты и запреты",
         "Notes": "Заметки",
         "Reporting": "Репорты",
@@ -507,7 +511,6 @@ RussianStrings = {
         "Connections": "Соединения",
         "Bios and Abouts": "Подпись человка",
         "Warnings": "Предупреждения",
-        "Welcomes/Goodbyes": "Приветствие/Прощание",
 
 #Some main stuff
 "Here is the help for the *{}* module:\n{}": "Помощь по модулю *{}*:\n{}",
