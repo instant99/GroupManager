@@ -295,6 +295,10 @@ RussianStrings = {
 "{} is AFK!": "{} сейчас АФК!",
 "{} is AFK! says its because of: \n{}": "{} сейчас АФК! Потому что: \n{}",
 
+#Android
+"Get the Bootleggers Rom": "Найти Bootleggers Rom",
+
+
 #Antiflood
 "I like to leave the flooding to natural disasters. But you, you were just a disappointment. Get out.":
      "Мне нравится оставлять флуд для стихийных бедствий. Но ты был просто разочарованием. Убирайся!",
@@ -485,7 +489,7 @@ RussianStrings = {
 #__main__
     #Module names
         "Admin": "Администрирование",
-        "Android": "Прошивки",
+        "Android": "Андроид прошивки",
         "AFK": "Режим АФК",
         "AntiFlood": "Антифлуд",
         "Backups": "Бэкапы",
