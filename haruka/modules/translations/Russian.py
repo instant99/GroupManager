@@ -297,7 +297,7 @@ RussianStrings = {
 
 #Android
 "Get the Bootleggers Rom": "Найти Bootleggers Rom",
-
+"Click to Download": "Ссылка на скачивание",
 
 #Antiflood
 "I like to leave the flooding to natural disasters. But you, you were just a disappointment. Get out.":
