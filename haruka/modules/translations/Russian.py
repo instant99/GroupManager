@@ -295,9 +295,10 @@ RussianStrings = {
 "{} is AFK!": "{} сейчас АФК!",
 "{} is AFK! says its because of: \n{}": "{} сейчас АФК! Потому что: \n{}",
 
-#Android
-"Get the Bootleggers Rom": "Найти Bootleggers Rom",
-"Click to Download": "Ссылка на скачивание",
+"AFK_help": """ - /afk <причина>: отметить себя как АФК.
+ - brb <причина>: тоже самое как /afk - но не команда.
+
+Если вы поставили себя как АФК, на любое упоминание о вас будет отправлено сообщение о вашей недоступности.""",
 
 #Antiflood
 "I like to leave the flooding to natural disasters. But you, you were just a disappointment. Get out.":
@@ -536,4 +537,12 @@ RussianStrings = {
 "\nAll commands can either be used with `/` or `!`.\n": "\nВсе коммнды могут начинатся с `/` или `!`\n",
 
 #Module helps
+"Admin_help": """ - /adminlist | /admins: Список админов в чате.
+
+*Только для администраторов:*
+ - /pin: Тихо закрепить полученное сообщение - добавьте аргумент 'loud' или 'notify' чтобы уведомить пользователей о закреплении.
+ - /unpin: Открепить данное закрепленное сообщение.
+ - /invitelink: Получить ссылку-приглашение.
+ - /promote: Повысить пользователя.
+ - /demote: Понизить пользователя.""",
 }
